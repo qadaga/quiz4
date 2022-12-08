@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;background-color: crimson;
+}
+
+.boxes {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 600px;
+    height: 520px;
+}
+
+.box1 {
+    width: 600px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.box-container1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.box2 {
+    width: 390px;
+    height: 200px;
+    background-color: rgb(149, 73, 190);
+}
+
+.box3 {
+    width: 200px;
+    height: 95px;
+    background-color: rgb(228, 251, 54);
+}
+
+.box-container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+}
+
+.box4 {
+    width: 200px;
+    height: 95px;
+    background-color: rgb(255, 0, 234);
+}
+
+.box-container3 {
+    display: flex;
+   justify-content: space-between;
+}
+
+.box5 {
+
+    width: 190px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+
+}
+
+.box6 {
+    width: 190px;
+    height: 100px;
+    background-color: rgb(255, 119, 0);
+}
+
+.box7 {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(195, 255, 0);
+}
+
+.box-container4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box8 {
+    width: 190px;
+    height: 100px;
+    background-color: rgb(51, 0, 255);
+}
+
+
+
+.box9 {
+    width: 190px;
+    height: 100px;
+    background-color: rgb(112, 138, 138);
+}
+
+
+.box10 {
+    width: 200px;
+    height: 100px;
+} 
+
+
+
+/* -------------------------quiz-2-------------------------- */
+
+
+
+.cubes {
+    margin-bottom: 100px;
+    margin-top: 200px;
+}
+
+.container1 {
+    display: flex;
+    width: 410px;
+    justify-content: space-between;
+}
+
+.cube-container1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cube-container2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.cube1 {
+width: 200px;
+height: 200px;
+background-color: aquamarine;
+}
+
+.cube2 {
+    width: 95px;
+    height: 90px;
+    background-color: rgb(11, 14, 13);
+}
+
+.cube3 {
+    width: 95px;
+    height: 90px;
+    background-color: rgb(234, 255, 127);
+}
+
+.cube4 {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 127, 127);
+}
+
+.container2 {
+    display: flex;
+    width: 410px;
+    justify-content: space-between;
+}
+
+.cube-container3 {
+    width: 200px;
+height: 200px;
+display: flex;
+justify-content: space-between;
+margin-top: 10px;
+}
+
+.cube-container4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cube-container5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cube5 {
+    width: 95px;
+    height: 95px;
+    background-color: rgb(154, 68, 8);
+}
+
+.cube6 {
+    width: 95px;
+    height: 95px;
+    background-color: rgb(165, 127, 255);
+}
+
+.cube7 {
+    width: 95px;
+    height: 95px;
+    background-color: rgb(144, 102, 51);
+}
+
+.cube8 {
+
+    width: 95px;
+    height: 95px;
+    background-color: rgb(144, 255, 127);
+}
+
+.cube9 {
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(175, 186, 182);
+}
+
